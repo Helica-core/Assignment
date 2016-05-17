@@ -148,245 +148,807 @@ analysis:C:/data_ch/10棒球/2372157.txt
 analysis:C:/data_ch/10棒球/2572631.txt
 analysis:C:/data_ch/10棒球/2682754.txt
 analysis:C:/data_ch/10棒球/2783001.txt
-综合:0
-竞技:0
-风暴:0
-美国:1.13245
-棒球:1.51096
-联赛:1.74543
-天津:1.926
-/sports.s:2.02554
-联盟:2.37346
-决赛:2.66297
-中国:2.66297
-比赛:2.83289
-北京:2.83289
-新闻:3.02554
-冠军:3.02554
-领先:3.02554
-明星:3.02554
-球队:3.24793
-猛虎:3.24793
-常规:3.51096
-提前:3.51096
-全国:3.51096
-纽约:3.51096
-险胜:3.83289
-拿下:3.83289
-职业:3.83289
-选手:3.83289
-系列:3.83289
-亮相:3.83289
-比分:3.83289
-上海:3.83289
-优势:3.83289
-广东:3.83289
-博览会:3.83289
-进行:3.83289
-结果:3.83289
-世界:3.83289
-出现:3.83289
-吉祥物:3.83289
-巨人:3.83289
-日报:3.83289
-国家:4.24793
-击败:4.24793
-中止:4.24793
-勇士:4.24793
-取得:4.24793
-一个:4.24793
-赛区:4.24793
-得分:4.24793
-举行:4.24793
-海盗:4.24793
-打点:4.24793
-南方:4.24793
-模特:4.24793
-争夺:4.24793
-骑兵:4.24793
-内衣:4.24793
-推出:4.24793
-击球:4.24793
-水手:4.24793
-球员:4.24793
-不幸:4.24793
-本职:4.24793
-投手:4.24793
-夺冠:4.24793
-消息:4.24793
-作出:4.24793
-运动员:4.24793
-战胜:4.24793
-外援:4.24793
-胜利:4.24793
-晚报:4.24793
-成功:4.24793
-阵容:4.24793
-继续:4.83289
-时间:4.83289
-星期:4.83289
-参赛:4.83289
-顺利:4.83289
-宝座:4.83289
-总局:4.83289
-控制:4.83289
-千年:4.83289
-中间:4.83289
-完了:4.83289
-有效:4.83289
-平均:4.83289
-得到:4.83289
-还要:4.83289
-休息:4.83289
-上午:4.83289
-利用:4.83289
-健康:4.83289
-返回:4.83289
-结束:4.83289
-中旬:4.83289
-非典:4.83289
-疫情:4.83289
-保证:4.83289
-教练员:4.83289
-裁判:4.83289
-身体:4.83289
-恢复:4.83289
-协会:4.83289
-调整:4.83289
-推迟:4.83289
-香肠:4.83289
-近年:4.83289
-会上:4.83289
-少见:4.83289
-失误:4.83289
-强力:4.83289
-强国:4.83289
-攻击:4.83289
-进入:4.83289
-大战:4.83289
-情况:4.83289
-经历:4.83289
-时局:4.83289
-高峰:4.83289
-牺牲:4.83289
-成绩:4.83289
-终结:4.83289
-魔鬼:4.83289
-落后:4.83289
-命名:4.83289
-决战:4.83289
-双方:4.83289
-苹果:4.83289
-体育场:4.83289
-卫冕:4.83289
-赛扬:4.83289
-追击:4.83289
-作战:4.83289
-夺得:4.83289
-维系:4.83289
-年度:4.83289
-批准:4.83289
-广大:4.83289
-爱好:4.83289
-全国性:4.83289
-竞赛:4.83289
-原定:4.83289
-凭借:4.83289
-业大:4.83289
-广州:4.83289
-省市:4.83289
-下属:4.83289
-全体:4.83289
-天使:4.83289
-迎来:4.83289
-球场:4.83289
-回归:4.83289
-痛击:4.83289
-邻国:4.83289
-积分:4.83289
-首位:4.83289
-任务:4.83289
-著名:4.83289
-加入:4.83289
-简介:4.83289
-盟下又各:4.83289
-分为:4.83289
-中部:4.83289
-西部:4.83289
-扩大:4.83289
-加拿大:4.83289
-本土:4.83289
-老将:4.83289
-重返:4.83289
-加盟:4.83289
-洛杉矶:4.83289
-签约:4.83289
-奇景:4.83289
-应声:4.83289
-花絮:4.83289
-大门:4.83289
-虔诚:4.83289
-悔过:4.83289
-势不可挡:4.83289
-三轮:4.83289
-凯歌:4.83289
-打开:4.83289
-谈笑:4.83289
-主教练:4.83289
-目的:4.83289
-开启:4.83289
-击打:4.83289
-信心:4.83289
-目标:4.83289
-登基:4.83289
-总结:4.83289
-队员:4.83289
-最佳:4.83289
-日本:4.83289
-欢迎:4.83289
-新华网:4.83289
-抵达:4.83289
-告捷:4.83289
-轻松:4.83289
-旧金山:4.83289
-白搭:4.83289
-重炮:4.83289
-攻克:4.83289
-相见:4.83289
-产生:4.83289
-方法:4.83289
-不屑一顾:4.83289
-人均:4.83289
-练习:4.83289
-阶段:4.83289
-展开:4.83289
-简报:4.83289
-工作:4.83289
-人员:4.83289
-王朝:4.83289
-公司:4.83289
-赞助:4.83289
-单位:4.83289
-媒体:4.83289
-俯卧撑:4.83289
-对手:4.83289
-引发:4.83289
-冲突:4.83289
-小子:4.83289
-教士:4.83289
-败仗:4.83289
-纪念品:4.83289
-角逐:4.83289
-激烈:4.83289
-空中:4.83289
-努力:4.83289
-老虎:4.83289
-酿酒:4.83289
-球迷:4.83289
-遭到:4.83289
-处罚:4.83289
-更新:4.83289
-加冕:4.83289
-国联:4.83289
-打击:4.83289
+
+name:0028501711.txt	words:34
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.176471
+word:海盗	weight:0.499756	idf:4.24793	tf:0.117647
+word:悔过	weight:0.568575	idf:4.83289	tf:0.117647
+word:竞技	weight:0	idf:0	tf:0.176471
+word:香肠	weight:0.426431	idf:4.83289	tf:0.0882353
+word:综合	weight:0	idf:0	tf:0.117647
+word:虔诚	weight:0.568575	idf:4.83289	tf:0.117647
+
+name:0202499817.txt	words:32
+-----------------------------------------------
+word:棒球	weight:0.141653	idf:1.51096	tf:0.09375
+word:夺冠	weight:0.663739	idf:4.24793	tf:0.15625
+word:风暴	weight:0	idf:0	tf:0.1875
+word:竞技	weight:0	idf:0	tf:0.1875
+word:联赛	weight:0.163634	idf:1.74543	tf:0.09375
+word:全国	weight:0.219435	idf:3.51096	tf:0.0625
+word:势不可挡	weight:0.604111	idf:4.83289	tf:0.125
+word:提前	weight:0.43887	idf:3.51096	tf:0.125
+word:天津	weight:0.180562	idf:1.926	tf:0.09375
+word:综合	weight:0	idf:0	tf:0.15625
+
+name:0633986.txt	words:0
+-----------------------------------------------
+
+name:0759499129.txt	words:35
+-----------------------------------------------
+word:棒球	weight:0.129511	idf:1.51096	tf:0.0857143
+word:北京	weight:0.323759	idf:2.83289	tf:0.114286
+word:风暴	weight:0	idf:0	tf:0.171429
+word:竞技	weight:0	idf:0	tf:0.142857
+word:联赛	weight:0.149608	idf:1.74543	tf:0.0857143
+word:全国	weight:0.30094	idf:3.51096	tf:0.0857143
+word:三轮	weight:0.55233	idf:4.83289	tf:0.114286
+word:天津	weight:0.220114	idf:1.926	tf:0.114286
+word:战胜	weight:0.485477	idf:4.24793	tf:0.114286
+word:综合	weight:0	idf:0	tf:0.114286
+
+name:0801500025.txt	words:36
+-----------------------------------------------
+word:棒球	weight:0.209856	idf:1.51096	tf:0.138889
+word:风暴	weight:0	idf:0	tf:0.166667
+word:竞技	weight:0	idf:0	tf:0.166667
+word:凯歌	weight:0.805482	idf:4.83289	tf:0.166667
+word:联赛	weight:0.24242	idf:1.74543	tf:0.138889
+word:中国	weight:0.369856	idf:2.66297	tf:0.138889
+word:综合	weight:0	idf:0	tf:0.138889
+
+name:0823499134.txt	words:47
+-----------------------------------------------
+word:打开	weight:0.41131	idf:4.83289	tf:0.0851064
+word:风暴	weight:0	idf:0	tf:0.148936
+word:竞技	weight:0	idf:0	tf:0.148936
+word:胜利	weight:0.361526	idf:4.24793	tf:0.0851064
+word:谈笑	weight:0.514137	idf:4.83289	tf:0.106383
+word:天津	weight:0.122936	idf:1.926	tf:0.0638298
+word:综合	weight:0	idf:0	tf:0.106383
+
+name:0823499149.txt	words:56
+-----------------------------------------------
+word:/sports.s	weight:0.0361703	idf:2.02554	tf:0.0178571
+word:棒球	weight:0.134907	idf:1.51096	tf:0.0892857
+word:风暴	weight:0	idf:0	tf:0.107143
+word:竞技	weight:0	idf:0	tf:0.107143
+word:决赛	weight:0.285318	idf:2.66297	tf:0.107143
+word:联赛	weight:0.155842	idf:1.74543	tf:0.0892857
+word:提前	weight:0.250783	idf:3.51096	tf:0.0714286
+word:天津	weight:0.103179	idf:1.926	tf:0.0535714
+word:综合	weight:0	idf:0	tf:0.0892857
+
+name:0824499144.txt	words:56
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.125
+word:竞技	weight:0	idf:0	tf:0.107143
+word:决赛	weight:0.237765	idf:2.66297	tf:0.0892857
+word:目的	weight:0.431508	idf:4.83289	tf:0.0892857
+word:日报	weight:0.0684445	idf:3.83289	tf:0.0178571
+word:天津	weight:0.137571	idf:1.926	tf:0.0714286
+word:主教练	weight:0.345206	idf:4.83289	tf:0.0714286
+word:综合	weight:0	idf:0	tf:0.0892857
+
+name:0824499145.txt	words:35
+-----------------------------------------------
+word:棒球	weight:0.172681	idf:1.51096	tf:0.114286
+word:大门	weight:0.828495	idf:4.83289	tf:0.171429
+word:风暴	weight:0	idf:0	tf:0.171429
+word:冠军	weight:0.345775	idf:3.02554	tf:0.114286
+word:竞技	weight:0	idf:0	tf:0.171429
+word:决赛	weight:0.456508	idf:2.66297	tf:0.171429
+word:开启	weight:0.690413	idf:4.83289	tf:0.142857
+word:联赛	weight:0.199477	idf:1.74543	tf:0.114286
+word:猛虎	weight:0.46399	idf:3.24793	tf:0.142857
+word:天津	weight:0.220114	idf:1.926	tf:0.114286
+word:综合	weight:0	idf:0	tf:0.142857
+
+name:0839500104.txt	words:56
+-----------------------------------------------
+word:常规	weight:0.250783	idf:3.51096	tf:0.0714286
+word:风暴	weight:0	idf:0	tf:0.125
+word:冠军	weight:0.270137	idf:3.02554	tf:0.0892857
+word:竞技	weight:0	idf:0	tf:0.107143
+word:目标	weight:0.431508	idf:4.83289	tf:0.0892857
+word:天津	weight:0.103179	idf:1.926	tf:0.0535714
+word:信心	weight:0.345206	idf:4.83289	tf:0.0714286
+word:综合	weight:0	idf:0	tf:0.0892857
+
+name:0839500105.txt	words:33
+-----------------------------------------------
+word:棒球	weight:0.183147	idf:1.51096	tf:0.121212
+word:北京	weight:0.429226	idf:2.83289	tf:0.151515
+word:常规	weight:0.531964	idf:3.51096	tf:0.151515
+word:登基	weight:0.732256	idf:4.83289	tf:0.151515
+word:风暴	weight:0	idf:0	tf:0.181818
+word:竞技	weight:0	idf:0	tf:0.181818
+word:联赛	weight:0.211567	idf:1.74543	tf:0.121212
+word:猛虎	weight:0.49211	idf:3.24793	tf:0.151515
+word:综合	weight:0	idf:0	tf:0.151515
+
+name:0842494623.txt	words:38
+-----------------------------------------------
+word:比赛	weight:0.298199	idf:2.83289	tf:0.105263
+word:队员	weight:0.763088	idf:4.83289	tf:0.157895
+word:风暴	weight:0	idf:0	tf:0.184211
+word:竞技	weight:0	idf:0	tf:0.157895
+word:天津	weight:0.304105	idf:1.926	tf:0.157895
+word:中国	weight:0.280312	idf:2.66297	tf:0.105263
+word:综合	weight:0	idf:0	tf:0.131579
+word:总结	weight:0.635907	idf:4.83289	tf:0.131579
+word:最佳	weight:0.763088	idf:4.83289	tf:0.157895
+word:作出	weight:0.558938	idf:4.24793	tf:0.131579
+
+name:0902493358.txt	words:45
+-----------------------------------------------
+word:棒球	weight:0.134308	idf:1.51096	tf:0.0888889
+word:风暴	weight:0	idf:0	tf:0.133333
+word:欢迎	weight:0.644385	idf:4.83289	tf:0.133333
+word:竞技	weight:0	idf:0	tf:0.133333
+word:日本	weight:0.644385	idf:4.83289	tf:0.133333
+word:新华网	weight:0.107398	idf:4.83289	tf:0.0222222
+word:选手	weight:0.425877	idf:3.83289	tf:0.111111
+word:运动员	weight:0.56639	idf:4.24793	tf:0.133333
+word:综合	weight:0	idf:0	tf:0.111111
+
+name:0903498386.txt	words:35
+-----------------------------------------------
+word:抵达	weight:0.55233	idf:4.83289	tf:0.114286
+word:风暴	weight:0	idf:0	tf:0.2
+word:竞技	weight:0	idf:0	tf:0.2
+word:球队	weight:0.46399	idf:3.24793	tf:0.142857
+word:外援	weight:0.606847	idf:4.24793	tf:0.142857
+word:综合	weight:0	idf:0	tf:0.142857
+
+name:0904498395.txt	words:39
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.179487
+word:积分	weight:0.495681	idf:4.83289	tf:0.102564
+word:竞技	weight:0	idf:0	tf:0.179487
+word:决赛	weight:0.409687	idf:2.66297	tf:0.153846
+word:扩大	weight:0.495681	idf:4.83289	tf:0.102564
+word:领先	weight:0.387889	idf:3.02554	tf:0.128205
+word:天津	weight:0.246923	idf:1.926	tf:0.128205
+word:优势	weight:0.491396	idf:3.83289	tf:0.128205
+word:综合	weight:0	idf:0	tf:0.128205
+
+name:0910500785.txt	words:44
+-----------------------------------------------
+word:棒球	weight:0.13736	idf:1.51096	tf:0.0909091
+word:常规	weight:0.478768	idf:3.51096	tf:0.136364
+word:风暴	weight:0	idf:0	tf:0.136364
+word:竞技	weight:0	idf:0	tf:0.136364
+word:联赛	weight:0.158675	idf:1.74543	tf:0.0909091
+word:首位	weight:0.65903	idf:4.83289	tf:0.136364
+word:天津	weight:0.175091	idf:1.926	tf:0.0909091
+word:晚报	weight:0.0965438	idf:4.24793	tf:0.0227273
+word:中国	weight:0.181566	idf:2.66297	tf:0.0681818
+word:综合	weight:0	idf:0	tf:0.113636
+
+name:0910500786.txt	words:44
+-----------------------------------------------
+word:成功	weight:0.386175	idf:4.24793	tf:0.0909091
+word:风暴	weight:0	idf:0	tf:0.159091
+word:竞技	weight:0	idf:0	tf:0.159091
+word:亮相	weight:0.348445	idf:3.83289	tf:0.0909091
+word:任务	weight:0.65903	idf:4.83289	tf:0.136364
+word:外援	weight:0.386175	idf:4.24793	tf:0.0909091
+word:晚报	weight:0.0965438	idf:4.24793	tf:0.0227273
+word:综合	weight:0	idf:0	tf:0.113636
+
+name:1005501989.txt	words:42
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.166667
+word:加入	weight:0.690413	idf:4.83289	tf:0.142857
+word:竞技	weight:0	idf:0	tf:0.142857
+word:美国	weight:0.107852	idf:1.13245	tf:0.0952381
+word:明星	weight:0.432219	idf:3.02554	tf:0.142857
+word:投手	weight:0.505706	idf:4.24793	tf:0.119048
+word:阵容	weight:0.606847	idf:4.24793	tf:0.142857
+word:著名	weight:0.575344	idf:4.83289	tf:0.119048
+word:综合	weight:0	idf:0	tf:0.119048
+
+name:1031493360.txt	words:39
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.179487
+word:竞技	weight:0	idf:0	tf:0.179487
+word:美国	weight:0.0871116	idf:1.13245	tf:0.0769231
+word:综合	weight:0	idf:0	tf:0.128205
+
+name:1034741.txt	words:105
+-----------------------------------------------
+word:/sports.s	weight:0.192908	idf:2.02554	tf:0.0952381
+word:棒球	weight:0.345363	idf:1.51096	tf:0.228571
+word:本土	weight:0.460275	idf:4.83289	tf:0.0952381
+word:博览会	weight:0.29203	idf:3.83289	tf:0.0761905
+word:分为	weight:0.230138	idf:4.83289	tf:0.047619
+word:风暴	weight:0	idf:0	tf:0.133333
+word:国家	weight:0.0809129	idf:4.24793	tf:0.0190476
+word:加拿大	weight:0.322193	idf:4.83289	tf:0.0666667
+word:简介	weight:1.10466	idf:4.83289	tf:0.228571
+word:竞技	weight:0	idf:0	tf:0.133333
+word:联盟	weight:0.745944	idf:2.37346	tf:0.314286
+word:邻国	weight:0.322193	idf:4.83289	tf:0.0666667
+word:美国	weight:0.172564	idf:1.13245	tf:0.152381
+word:盟下又各	weight:0.18411	idf:4.83289	tf:0.0380952
+word:球队	weight:0.525855	idf:3.24793	tf:0.161905
+word:赛区	weight:0.768673	idf:4.24793	tf:0.180952
+word:西部	weight:0.230138	idf:4.83289	tf:0.047619
+word:职业	weight:0.876089	idf:3.83289	tf:0.228571
+word:中部	weight:0.230138	idf:4.83289	tf:0.047619
+word:综合	weight:0	idf:0	tf:0.133333
+
+name:1053500449.txt	words:57
+-----------------------------------------------
+word:棒球	weight:0.106032	idf:1.51096	tf:0.0701754
+word:风暴	weight:0	idf:0	tf:0.122807
+word:广东	weight:0.336218	idf:3.83289	tf:0.0877193
+word:击败	weight:0.44715	idf:4.24793	tf:0.105263
+word:竞技	weight:0	idf:0	tf:0.122807
+word:联赛	weight:0.153108	idf:1.74543	tf:0.0877193
+word:南方	weight:0.074525	idf:4.24793	tf:0.0175439
+word:取得	weight:0.44715	idf:4.24793	tf:0.105263
+word:日报	weight:0.0672437	idf:3.83289	tf:0.0175439
+word:上海	weight:0.403462	idf:3.83289	tf:0.105263
+word:综合	weight:0	idf:0	tf:0.0877193
+
+name:1109499295.txt	words:58
+-----------------------------------------------
+word:/sports.s	weight:0.034923	idf:2.02554	tf:0.0172414
+word:棒球	weight:0.130255	idf:1.51096	tf:0.0862069
+word:风暴	weight:0	idf:0	tf:0.12069
+word:广东	weight:0.330422	idf:3.83289	tf:0.0862069
+word:竞技	weight:0	idf:0	tf:0.103448
+word:联赛	weight:0.150468	idf:1.74543	tf:0.0862069
+word:南方	weight:0.0732401	idf:4.24793	tf:0.0172414
+word:日报	weight:0.0660843	idf:3.83289	tf:0.0172414
+word:上海	weight:0.46259	idf:3.83289	tf:0.12069
+word:险胜	weight:0.46259	idf:3.83289	tf:0.12069
+word:中国	weight:0.183653	idf:2.66297	tf:0.0689655
+word:综合	weight:0	idf:0	tf:0.0862069
+
+name:1141503269.txt	words:57
+-----------------------------------------------
+word:/sports.s	weight:0.0355357	idf:2.02554	tf:0.0175439
+word:棒球	weight:0.0795243	idf:1.51096	tf:0.0526316
+word:风暴	weight:0	idf:0	tf:0.105263
+word:加盟	weight:0.593513	idf:4.83289	tf:0.122807
+word:竞技	weight:0	idf:0	tf:0.105263
+word:老将	weight:0.423938	idf:4.83289	tf:0.0877193
+word:联盟	weight:0.249838	idf:2.37346	tf:0.105263
+word:洛杉矶	weight:0.593513	idf:4.83289	tf:0.122807
+word:签约	weight:0.0847875	idf:4.83289	tf:0.0175439
+word:重返	weight:0.508725	idf:4.83289	tf:0.105263
+word:综合	weight:0	idf:0	tf:0.0877193
+
+name:1153495944.txt	words:37
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.135135
+word:竞技	weight:0	idf:0	tf:0.135135
+word:联盟	weight:0.0641475	idf:2.37346	tf:0.027027
+word:美国	weight:0.0306068	idf:1.13245	tf:0.027027
+word:骑兵	weight:0.229618	idf:4.24793	tf:0.0540541
+word:综合	weight:0	idf:0	tf:0.0540541
+
+name:1158495961.txt	words:35
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.142857
+word:击球	weight:0.364108	idf:4.24793	tf:0.0857143
+word:竞技	weight:0	idf:0	tf:0.114286
+word:美国	weight:0.0647114	idf:1.13245	tf:0.0571429
+word:奇景	weight:0.414248	idf:4.83289	tf:0.0857143
+word:选手	weight:0.328533	idf:3.83289	tf:0.0857143
+word:应声	weight:0.414248	idf:4.83289	tf:0.0857143
+word:综合	weight:0	idf:0	tf:0.0857143
+
+name:1206495987.txt	words:41
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.146341
+word:竞技	weight:0	idf:0	tf:0.146341
+word:联盟	weight:0.289446	idf:2.37346	tf:0.121951
+word:美国	weight:0.0552415	idf:1.13245	tf:0.0487805
+word:明星	weight:0.368968	idf:3.02554	tf:0.121951
+word:阵容	weight:0.51804	idf:4.24793	tf:0.121951
+word:综合	weight:0	idf:0	tf:0.097561
+
+name:1207503300.txt	words:38
+-----------------------------------------------
+word:比赛	weight:0.223649	idf:2.83289	tf:0.0789474
+word:不幸	weight:0.558938	idf:4.24793	tf:0.131579
+word:风暴	weight:0	idf:0	tf:0.157895
+word:花絮	weight:0.381544	idf:4.83289	tf:0.0789474
+word:竞技	weight:0	idf:0	tf:0.157895
+word:美国	weight:0.089404	idf:1.13245	tf:0.0789474
+word:球员	weight:0.558938	idf:4.24793	tf:0.131579
+word:水手	weight:0.44715	idf:4.24793	tf:0.105263
+word:综合	weight:0	idf:0	tf:0.105263
+
+name:1229493528.txt	words:39
+-----------------------------------------------
+word:冲突	weight:0.619601	idf:4.83289	tf:0.128205
+word:对手	weight:0.495681	idf:4.83289	tf:0.102564
+word:风暴	weight:0	idf:0	tf:0.153846
+word:击打	weight:0.371761	idf:4.83289	tf:0.0769231
+word:竞技	weight:0	idf:0	tf:0.153846
+word:小子	weight:0.619601	idf:4.83289	tf:0.128205
+word:引发	weight:0.495681	idf:4.83289	tf:0.102564
+word:综合	weight:0	idf:0	tf:0.102564
+
+name:1319500866.txt	words:125
+-----------------------------------------------
+word:/sports.s	weight:0.0162043	idf:2.02554	tf:0.008
+word:败仗	weight:0.0386631	idf:4.83289	tf:0.008
+word:博览会	weight:0.183979	idf:3.83289	tf:0.048
+word:不幸	weight:0.0339834	idf:4.24793	tf:0.008
+word:打点	weight:0.0339834	idf:4.24793	tf:0.008
+word:风暴	weight:0	idf:0	tf:0.048
+word:教士	weight:0.193316	idf:4.83289	tf:0.04
+word:竞技	weight:0	idf:0	tf:0.04
+word:联盟	weight:0.056963	idf:2.37346	tf:0.024
+word:美国	weight:0.0181192	idf:1.13245	tf:0.016
+word:明星	weight:0.0242043	idf:3.02554	tf:0.008
+word:拿下	weight:0.0306631	idf:3.83289	tf:0.008
+word:球员	weight:0.0339834	idf:4.24793	tf:0.008
+word:投手	weight:0.0339834	idf:4.24793	tf:0.008
+word:综合	weight:0	idf:0	tf:0.032
+
+name:1332493572.txt	words:36
+-----------------------------------------------
+word:棒球	weight:0.125913	idf:1.51096	tf:0.0833333
+word:风暴	weight:0	idf:0	tf:0.138889
+word:纪念品	weight:0.402741	idf:4.83289	tf:0.0833333
+word:竞技	weight:0	idf:0	tf:0.138889
+word:联盟	weight:0.329647	idf:2.37346	tf:0.138889
+word:联赛	weight:0.145452	idf:1.74543	tf:0.0833333
+word:亮相	weight:0.425877	idf:3.83289	tf:0.111111
+word:美国	weight:0.125828	idf:1.13245	tf:0.111111
+word:明星	weight:0.420213	idf:3.02554	tf:0.138889
+word:中国	weight:0.221914	idf:2.66297	tf:0.0833333
+word:综合	weight:0	idf:0	tf:0.111111
+
+name:1343494670.txt	words:47
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.12766
+word:俯卧撑	weight:0.514137	idf:4.83289	tf:0.106383
+word:激烈	weight:0.514137	idf:4.83289	tf:0.106383
+word:角逐	weight:0.514137	idf:4.83289	tf:0.106383
+word:竞技	weight:0	idf:0	tf:0.12766
+word:空中	weight:0.514137	idf:4.83289	tf:0.106383
+word:选手	weight:0.407754	idf:3.83289	tf:0.106383
+word:综合	weight:0	idf:0	tf:0.0851064
+
+name:1343503378.txt	words:34
+-----------------------------------------------
+word:本职	weight:0.374817	idf:4.24793	tf:0.0882353
+word:风暴	weight:0	idf:0	tf:0.147059
+word:吉祥物	weight:0.450928	idf:3.83289	tf:0.117647
+word:竞技	weight:0	idf:0	tf:0.147059
+word:模特	weight:0.499756	idf:4.24793	tf:0.117647
+word:内衣	weight:0.499756	idf:4.24793	tf:0.117647
+word:球队	weight:0.382109	idf:3.24793	tf:0.117647
+word:推出	weight:0.499756	idf:4.24793	tf:0.117647
+word:综合	weight:0	idf:0	tf:0.117647
+
+name:1345503379.txt	words:34
+-----------------------------------------------
+word:本职	weight:0.374817	idf:4.24793	tf:0.0882353
+word:风暴	weight:0	idf:0	tf:0.147059
+word:吉祥物	weight:0.450928	idf:3.83289	tf:0.117647
+word:竞技	weight:0	idf:0	tf:0.147059
+word:模特	weight:0.499756	idf:4.24793	tf:0.117647
+word:内衣	weight:0.499756	idf:4.24793	tf:0.117647
+word:球队	weight:0.382109	idf:3.24793	tf:0.117647
+word:推出	weight:0.499756	idf:4.24793	tf:0.117647
+word:综合	weight:0	idf:0	tf:0.117647
+
+name:1346494672.txt	words:38
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.184211
+word:竞技	weight:0	idf:0	tf:0.184211
+word:老虎	weight:0.127181	idf:4.83289	tf:0.0263158
+word:联盟	weight:0.0624594	idf:2.37346	tf:0.0263158
+word:美国	weight:0.0298013	idf:1.13245	tf:0.0263158
+word:综合	weight:0	idf:0	tf:0.0526316
+
+name:1403497616.txt	words:33
+-----------------------------------------------
+word:处罚	weight:0.439354	idf:4.83289	tf:0.0909091
+word:风暴	weight:0	idf:0	tf:0.181818
+word:海盗	weight:0.386175	idf:4.24793	tf:0.0909091
+word:吉祥物	weight:0.348445	idf:3.83289	tf:0.0909091
+word:竞技	weight:0	idf:0	tf:0.181818
+word:酿酒	weight:0.292902	idf:4.83289	tf:0.0606061
+word:球迷	weight:0.439354	idf:4.83289	tf:0.0909091
+word:遭到	weight:0.439354	idf:4.83289	tf:0.0909091
+word:综合	weight:0	idf:0	tf:0.0909091
+
+name:1409497622.txt	words:37
+-----------------------------------------------
+word:棒球	weight:0.0408368	idf:1.51096	tf:0.027027
+word:比赛	weight:0.153129	idf:2.83289	tf:0.0540541
+word:风暴	weight:0	idf:0	tf:0.162162
+word:更新	weight:0.261237	idf:4.83289	tf:0.0540541
+word:结果	weight:0.207183	idf:3.83289	tf:0.0540541
+word:竞技	weight:0	idf:0	tf:0.135135
+word:联盟	weight:0.0641475	idf:2.37346	tf:0.027027
+word:美国	weight:0.0306068	idf:1.13245	tf:0.027027
+word:综合	weight:0	idf:0	tf:0.0540541
+
+name:1528502283.txt	words:81
+-----------------------------------------------
+word:/sports.s	weight:0.0250066	idf:2.02554	tf:0.0123457
+word:出现	weight:0.0473196	idf:3.83289	tf:0.0123457
+word:打击	weight:0.0596653	idf:4.83289	tf:0.0123457
+word:风暴	weight:0	idf:0	tf:0.0617284
+word:冠军	weight:0.149409	idf:3.02554	tf:0.0493827
+word:国联	weight:0.0596653	idf:4.83289	tf:0.0123457
+word:加冕	weight:0.178996	idf:4.83289	tf:0.037037
+word:进行	weight:0.0473196	idf:3.83289	tf:0.0123457
+word:竞技	weight:0	idf:0	tf:0.0617284
+word:练习	weight:0.0596653	idf:4.83289	tf:0.0123457
+word:明星	weight:0.149409	idf:3.02554	tf:0.0493827
+word:优势	weight:0.189279	idf:3.83289	tf:0.0493827
+word:综合	weight:0	idf:0	tf:0.037037
+
+name:1540499443.txt	words:37
+-----------------------------------------------
+word:成功	weight:0.574044	idf:4.24793	tf:0.135135
+word:风暴	weight:0	idf:0	tf:0.135135
+word:竞技	weight:0	idf:0	tf:0.135135
+word:巨人	weight:0.517958	idf:3.83289	tf:0.135135
+word:美国	weight:0.0918203	idf:1.13245	tf:0.0810811
+word:轻松	weight:0.653093	idf:4.83289	tf:0.135135
+word:勇士	weight:0.459235	idf:4.24793	tf:0.108108
+word:中止	weight:0.459235	idf:4.24793	tf:0.108108
+word:综合	weight:0	idf:0	tf:0.108108
+
+name:1555497728.txt	words:35
+-----------------------------------------------
+word:白搭	weight:0.55233	idf:4.83289	tf:0.114286
+word:风暴	weight:0	idf:0	tf:0.171429
+word:竞技	weight:0	idf:0	tf:0.142857
+word:旧金山	weight:0.414248	idf:4.83289	tf:0.0857143
+word:巨人	weight:0.328533	idf:3.83289	tf:0.0857143
+word:综合	weight:0	idf:0	tf:0.114286
+
+name:1615499454.txt	words:37
+-----------------------------------------------
+word:棒球	weight:0.0816736	idf:1.51096	tf:0.0540541
+word:风暴	weight:0	idf:0	tf:0.135135
+word:竞技	weight:0	idf:0	tf:0.108108
+word:决赛	weight:0.287888	idf:2.66297	tf:0.108108
+word:联赛	weight:0.0943474	idf:1.74543	tf:0.0540541
+word:提前	weight:0.284673	idf:3.51096	tf:0.0810811
+word:天津	weight:0.104108	idf:1.926	tf:0.0540541
+word:中国	weight:0.143944	idf:2.66297	tf:0.0540541
+word:综合	weight:0	idf:0	tf:0.0810811
+
+name:1617499459.txt	words:36
+-----------------------------------------------
+word:棒球	weight:0.0839423	idf:1.51096	tf:0.0555556
+word:北京	weight:0.314766	idf:2.83289	tf:0.111111
+word:风暴	weight:0	idf:0	tf:0.138889
+word:竞技	weight:0	idf:0	tf:0.111111
+word:联赛	weight:0.0969682	idf:1.74543	tf:0.0555556
+word:猛虎	weight:0.360881	idf:3.24793	tf:0.111111
+word:天津	weight:0.107	idf:1.926	tf:0.0555556
+word:战胜	weight:0.471992	idf:4.24793	tf:0.111111
+word:中国	weight:0.147943	idf:2.66297	tf:0.0555556
+word:综合	weight:0	idf:0	tf:0.0833333
+
+name:1622495009.txt	words:39
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.153846
+word:竞技	weight:0	idf:0	tf:0.153846
+word:巨人	weight:0.393117	idf:3.83289	tf:0.102564
+word:联盟	weight:0.243432	idf:2.37346	tf:0.102564
+word:美国	weight:0.0871116	idf:1.13245	tf:0.0769231
+word:重炮	weight:0.619601	idf:4.83289	tf:0.128205
+word:综合	weight:0	idf:0	tf:0.102564
+
+name:1622496233.txt	words:99
+-----------------------------------------------
+word:/sports.s	weight:0.02046	idf:2.02554	tf:0.010101
+word:打点	weight:0.0429084	idf:4.24793	tf:0.010101
+word:得分	weight:0.0429084	idf:4.24793	tf:0.010101
+word:风暴	weight:0	idf:0	tf:0.0606061
+word:攻克	weight:0.292902	idf:4.83289	tf:0.0606061
+word:竞技	weight:0	idf:0	tf:0.0606061
+word:美国	weight:0.0343167	idf:1.13245	tf:0.030303
+word:拿下	weight:0.0387161	idf:3.83289	tf:0.010101
+word:骑兵	weight:0.25745	idf:4.24793	tf:0.0606061
+word:综合	weight:0	idf:0	tf:0.040404
+
+name:1623495016.txt	words:37
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.162162
+word:竞技	weight:0	idf:0	tf:0.162162
+word:美国	weight:0.0918203	idf:1.13245	tf:0.0810811
+word:险胜	weight:0.414366	idf:3.83289	tf:0.108108
+word:综合	weight:0	idf:0	tf:0.108108
+
+name:1629502352.txt	words:41
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.146341
+word:竞技	weight:0	idf:0	tf:0.146341
+word:美国	weight:0.0828622	idf:1.13245	tf:0.0731707
+word:相见	weight:0.471501	idf:4.83289	tf:0.097561
+word:综合	weight:0	idf:0	tf:0.097561
+
+name:1636502355.txt	words:38
+-----------------------------------------------
+word:不屑一顾	weight:0.635907	idf:4.83289	tf:0.131579
+word:产生	weight:0.635907	idf:4.83289	tf:0.131579
+word:方法	weight:0.635907	idf:4.83289	tf:0.131579
+word:风暴	weight:0	idf:0	tf:0.157895
+word:竞技	weight:0	idf:0	tf:0.131579
+word:美国	weight:0.089404	idf:1.13245	tf:0.0789474
+word:世界	weight:0.504328	idf:3.83289	tf:0.131579
+word:优势	weight:0.504328	idf:3.83289	tf:0.131579
+word:综合	weight:0	idf:0	tf:0.105263
+
+name:1652493722.txt	words:34
+-----------------------------------------------
+word:博览会	weight:0.338196	idf:3.83289	tf:0.0882353
+word:风暴	weight:0	idf:0	tf:0.176471
+word:竞技	weight:0	idf:0	tf:0.176471
+word:美国	weight:0.0999221	idf:1.13245	tf:0.0882353
+word:中止	weight:0.624695	idf:4.24793	tf:0.147059
+word:综合	weight:0	idf:0	tf:0.147059
+
+name:1653493723.txt	words:36
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.194444
+word:告捷	weight:0.671235	idf:4.83289	tf:0.138889
+word:竞技	weight:0	idf:0	tf:0.194444
+word:美国	weight:0.125828	idf:1.13245	tf:0.111111
+word:人均	weight:0.671235	idf:4.83289	tf:0.138889
+word:勇士	weight:0.58999	idf:4.24793	tf:0.138889
+word:综合	weight:0	idf:0	tf:0.138889
+
+name:1703493727.txt	words:203
+-----------------------------------------------
+word:/sports.s	weight:0.079824	idf:2.02554	tf:0.0394089
+word:爱好	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:棒球	weight:0.320056	idf:1.51096	tf:0.211823
+word:保证	weight:0.071422	idf:4.83289	tf:0.0147783
+word:北京	weight:0.0418654	idf:2.83289	tf:0.0147783
+word:比赛	weight:0.627981	idf:2.83289	tf:0.221675
+word:裁判	weight:0.119037	idf:4.83289	tf:0.0246305
+word:参赛	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:常规	weight:0.121068	idf:3.51096	tf:0.0344828
+word:出现	weight:0.0566437	idf:3.83289	tf:0.0147783
+word:单位	weight:0.119037	idf:4.83289	tf:0.0246305
+word:得到	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:调整	weight:0.119037	idf:4.83289	tf:0.0246305
+word:非典	weight:0.0952294	idf:4.83289	tf:0.0197044
+word:风暴	weight:0	idf:0	tf:0.118227
+word:工作	weight:0.071422	idf:4.83289	tf:0.0147783
+word:公司	weight:0.071422	idf:4.83289	tf:0.0147783
+word:广大	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:广东	weight:0.0188812	idf:3.83289	tf:0.00492611
+word:广州	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:国家	weight:0.0209258	idf:4.24793	tf:0.00492611
+word:还要	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:恢复	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:击球	weight:0.0209258	idf:4.24793	tf:0.00492611
+word:简报	weight:0.880872	idf:4.83289	tf:0.182266
+word:健康	weight:0.071422	idf:4.83289	tf:0.0147783
+word:教练员	weight:0.119037	idf:4.83289	tf:0.0246305
+word:阶段	weight:0.999908	idf:4.83289	tf:0.206897
+word:结束	weight:0.071422	idf:4.83289	tf:0.0147783
+word:近年	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:竞技	weight:0	idf:0	tf:0.123153
+word:竞赛	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:举行	weight:0.125555	idf:4.24793	tf:0.0295567
+word:控制	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:利用	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:联赛	weight:0.386917	idf:1.74543	tf:0.221675
+word:亮相	weight:0.0188812	idf:3.83289	tf:0.00492611
+word:媒体	weight:0.071422	idf:4.83289	tf:0.0147783
+word:猛虎	weight:0.0319993	idf:3.24793	tf:0.00985222
+word:明星	weight:0.0894247	idf:3.02554	tf:0.0295567
+word:努力	weight:0.071422	idf:4.83289	tf:0.0147783
+word:批准	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:平均	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:强力	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:球队	weight:0.0159996	idf:3.24793	tf:0.00492611
+word:全国	weight:0.0172954	idf:3.51096	tf:0.00492611
+word:全国性	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:全体	weight:0.0476147	idf:4.83289	tf:0.00985222
+word:人员	weight:0.071422	idf:4.83289	tf:0.0147783
+word:赛区	weight:0.0627773	idf:4.24793	tf:0.0147783
+word:上海	weight:0.0377625	idf:3.83289	tf:0.00985222
+word:少见	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:身体	weight:0.071422	idf:4.83289	tf:0.0147783
+word:省市	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:顺利	weight:0.071422	idf:4.83289	tf:0.0147783
+word:天津	weight:0.028463	idf:1.926	tf:0.0147783
+word:推迟	weight:0.119037	idf:4.83289	tf:0.0246305
+word:完了	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:王朝	weight:0.071422	idf:4.83289	tf:0.0147783
+word:下属	weight:0.0476147	idf:4.83289	tf:0.00985222
+word:协会	weight:0.0952294	idf:4.83289	tf:0.0197044
+word:新闻	weight:0.0447123	idf:3.02554	tf:0.0147783
+word:星期	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:休息	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:一个	weight:0.0418515	idf:4.24793	tf:0.00985222
+word:疫情	weight:0.0952294	idf:4.83289	tf:0.0197044
+word:有效	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:原定	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:运动员	weight:0.104629	idf:4.24793	tf:0.0246305
+word:赞助	weight:0.071422	idf:4.83289	tf:0.0147783
+word:展开	weight:0.80945	idf:4.83289	tf:0.167488
+word:中国	weight:0.524722	idf:2.66297	tf:0.197044
+word:中间	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:中旬	weight:0.071422	idf:4.83289	tf:0.0147783
+word:综合	weight:0	idf:0	tf:0.108374
+word:总局	weight:0.0238073	idf:4.83289	tf:0.00492611
+word:作出	weight:0.104629	idf:4.24793	tf:0.0246305
+
+name:1712493735.txt	words:40
+-----------------------------------------------
+word:北京	weight:0.354111	idf:2.83289	tf:0.125
+word:风暴	weight:0	idf:0	tf:1.725
+word:竞技	weight:0	idf:0	tf:1.6
+word:猛虎	weight:0.811982	idf:3.24793	tf:0.25
+word:综合	weight:0	idf:0	tf:0.4
+
+name:1751501244.txt	words:51
+-----------------------------------------------
+word:风暴	weight:0	idf:0	tf:0.117647
+word:竞技	weight:0	idf:0	tf:0.0980392
+word:联赛	weight:0.102672	idf:1.74543	tf:0.0588235
+word:美国	weight:0.0444098	idf:1.13245	tf:0.0392157
+word:魔鬼	weight:0.473813	idf:4.83289	tf:0.0980392
+word:水手	weight:0.416463	idf:4.24793	tf:0.0980392
+word:天使	weight:0.284288	idf:4.83289	tf:0.0588235
+word:痛击	weight:0.473813	idf:4.83289	tf:0.0980392
+word:迎来	weight:0.37905	idf:4.83289	tf:0.0784314
+word:综合	weight:0	idf:0	tf:0.0784314
+
+name:1813499509.txt	words:44
+-----------------------------------------------
+word:棒球	weight:0.10302	idf:1.51096	tf:0.0681818
+word:北京	weight:0.321919	idf:2.83289	tf:0.113636
+word:夺冠	weight:0.482719	idf:4.24793	tf:0.113636
+word:风暴	weight:0	idf:0	tf:0.113636
+word:竞技	weight:0	idf:0	tf:0.113636
+word:联赛	weight:0.119006	idf:1.74543	tf:0.0681818
+word:全国	weight:0.159589	idf:3.51096	tf:0.0454545
+word:提前	weight:0.398973	idf:3.51096	tf:0.113636
+word:天津	weight:0.131318	idf:1.926	tf:0.0681818
+word:综合	weight:0	idf:0	tf:0.0909091
+
+name:2272035.txt	words:118
+-----------------------------------------------
+word:/sports.s	weight:0.0686622	idf:2.02554	tf:0.0338983
+word:棒球	weight:0.0256095	idf:1.51096	tf:0.0169492
+word:比赛	weight:0.0480151	idf:2.83289	tf:0.0169492
+word:大战	weight:0.450524	idf:4.83289	tf:0.0932203
+word:风暴	weight:0	idf:0	tf:0.110169
+word:冠军	weight:0.0256401	idf:3.02554	tf:0.00847458
+word:经历	weight:0.0819134	idf:4.83289	tf:0.0169492
+word:竞技	weight:0	idf:0	tf:0.110169
+word:决战	weight:0.0409567	idf:4.83289	tf:0.00847458
+word:联赛	weight:0.0147918	idf:1.74543	tf:0.00847458
+word:领先	weight:0.358962	idf:3.02554	tf:0.118644
+word:美国	weight:0.0767763	idf:1.13245	tf:0.0677966
+word:命名	weight:0.0409567	idf:4.83289	tf:0.00847458
+word:纽约	weight:0.595078	idf:3.51096	tf:0.169492
+word:苹果	weight:0.0409567	idf:4.83289	tf:0.00847458
+word:强国	weight:0.0409567	idf:4.83289	tf:0.00847458
+word:时局	weight:0.0819134	idf:4.83289	tf:0.0169492
+word:世界	weight:0.519714	idf:3.83289	tf:0.135593
+word:双方	weight:0.0409567	idf:4.83289	tf:0.00847458
+word:卫冕	weight:0.0409567	idf:4.83289	tf:0.00847458
+word:系列	weight:0.0649642	idf:3.83289	tf:0.0169492
+word:险胜	weight:0.0974464	idf:3.83289	tf:0.0254237
+word:新闻	weight:0.179481	idf:3.02554	tf:0.059322
+word:争夺	weight:0.0719988	idf:4.24793	tf:0.0169492
+word:职业	weight:0.0324821	idf:3.83289	tf:0.00847458
+word:综合	weight:0	idf:0	tf:0.0677966
+
+name:2372157.txt	words:94
+-----------------------------------------------
+word:/sports.s	weight:0.0430965	idf:2.02554	tf:0.0212766
+word:比分	weight:0.0815509	idf:3.83289	tf:0.0212766
+word:比赛	weight:0.0301371	idf:2.83289	tf:0.0106383
+word:风暴	weight:0	idf:0	tf:0.138298
+word:结果	weight:0.0407754	idf:3.83289	tf:0.0106383
+word:竞技	weight:0	idf:0	tf:0.138298
+word:举行	weight:0.0451907	idf:4.24793	tf:0.0106383
+word:领先	weight:0.0643731	idf:3.02554	tf:0.0212766
+word:美国	weight:0.0843314	idf:1.13245	tf:0.0744681
+word:纽约	weight:0.112052	idf:3.51096	tf:0.0319149
+word:赛扬	weight:0.462724	idf:4.83289	tf:0.0957447
+word:体育场	weight:0.0514137	idf:4.83289	tf:0.0106383
+word:系列	weight:0.0815509	idf:3.83289	tf:0.0212766
+word:新闻	weight:0.160933	idf:3.02554	tf:0.0531915
+word:追击	weight:0.462724	idf:4.83289	tf:0.0957447
+word:综合	weight:0	idf:0	tf:0.0744681
+
+name:2572631.txt	words:158
+-----------------------------------------------
+word:/sports.s	weight:0.0512794	idf:2.02554	tf:0.0253165
+word:比分	weight:0.0242588	idf:3.83289	tf:0.00632911
+word:比赛	weight:0.0537891	idf:2.83289	tf:0.0189873
+word:成绩	weight:0.122352	idf:4.83289	tf:0.0253165
+word:风暴	weight:0	idf:0	tf:0.0822785
+word:高峰	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:攻击	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:冠军	weight:0.019149	idf:3.02554	tf:0.00632911
+word:回归	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:击败	weight:0.0268856	idf:4.24793	tf:0.00632911
+word:进入	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:进行	weight:0.0242588	idf:3.83289	tf:0.00632911
+word:竞技	weight:0	idf:0	tf:0.0822785
+word:决赛	weight:0.269667	idf:2.66297	tf:0.101266
+word:领先	weight:0.019149	idf:3.02554	tf:0.00632911
+word:落后	weight:0.397643	idf:4.83289	tf:0.0822785
+word:美国	weight:0.0573393	idf:1.13245	tf:0.0506329
+word:拿下	weight:0.0242588	idf:3.83289	tf:0.00632911
+word:年度	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:纽约	weight:0.0444426	idf:3.51096	tf:0.0126582
+word:凭借	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:情况	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:球场	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:取得	weight:0.0268856	idf:4.24793	tf:0.00632911
+word:胜利	weight:0.0268856	idf:4.24793	tf:0.00632911
+word:维系	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:牺牲	weight:0.0305879	idf:4.83289	tf:0.00632911
+word:消息	weight:0.0268856	idf:4.24793	tf:0.00632911
+word:新闻	weight:0.114894	idf:3.02554	tf:0.0379747
+word:争夺	weight:0.0268856	idf:4.24793	tf:0.00632911
+word:职业	weight:0.0242588	idf:3.83289	tf:0.00632911
+word:终结	weight:0.0611758	idf:4.83289	tf:0.0126582
+word:综合	weight:0	idf:0	tf:0.0443038
+word:作战	weight:0.0305879	idf:4.83289	tf:0.00632911
+
+name:2682754.txt	words:62
+-----------------------------------------------
+word:/sports.s	weight:0.0326699	idf:2.02554	tf:0.016129
+word:风暴	weight:0	idf:0	tf:0.209677
+word:竞技	weight:0	idf:0	tf:0.209677
+word:决赛	weight:0.343608	idf:2.66297	tf:0.129032
+word:领先	weight:0.390392	idf:3.02554	tf:0.129032
+word:美国	weight:0.127857	idf:1.13245	tf:0.112903
+word:新闻	weight:0.292794	idf:3.02554	tf:0.0967742
+word:综合	weight:0	idf:0	tf:0.112903
+
+name:2783001.txt	words:133
+-----------------------------------------------
+word:/sports.s	weight:0.0456888	idf:2.02554	tf:0.0225564
+word:宝座	weight:0.072675	idf:4.83289	tf:0.0150376
+word:北京	weight:0.0425998	idf:2.83289	tf:0.0150376
+word:比分	weight:0.0288187	idf:3.83289	tf:0.0075188
+word:出现	weight:0.0288187	idf:3.83289	tf:0.0075188
+word:得分	weight:0.0319393	idf:4.24793	tf:0.0075188
+word:夺得	weight:0.254363	idf:4.83289	tf:0.0526316
+word:返回	weight:0.0363375	idf:4.83289	tf:0.0075188
+word:风暴	weight:0	idf:0	tf:0.105263
+word:冠军	weight:0.204735	idf:3.02554	tf:0.0676692
+word:会上	weight:0.0363375	idf:4.83289	tf:0.0075188
+word:继续	weight:0.072675	idf:4.83289	tf:0.0150376
+word:结果	weight:0.0576374	idf:3.83289	tf:0.0150376
+word:进行	weight:0.0576374	idf:3.83289	tf:0.0150376
+word:竞技	weight:0	idf:0	tf:0.105263
+word:决赛	weight:0.0400446	idf:2.66297	tf:0.0150376
+word:联盟	weight:0.16061	idf:2.37346	tf:0.0676692
+word:领先	weight:0.0454968	idf:3.02554	tf:0.0150376
+word:美国	weight:0.076632	idf:1.13245	tf:0.0676692
+word:纽约	weight:0.29038	idf:3.51096	tf:0.0827068
+word:千年	weight:0.072675	idf:4.83289	tf:0.0150376
+word:上午	weight:0.072675	idf:4.83289	tf:0.0150376
+word:失误	weight:0.0363375	idf:4.83289	tf:0.0075188
+word:时间	weight:0.072675	idf:4.83289	tf:0.0150376
+word:世界	weight:0.0576374	idf:3.83289	tf:0.0150376
+word:系列	weight:0.115275	idf:3.83289	tf:0.0300752
+word:消息	weight:0.0638786	idf:4.24793	tf:0.0150376
+word:新闻	weight:0.0909935	idf:3.02554	tf:0.0300752
+word:业大	weight:0.072675	idf:4.83289	tf:0.0150376
+word:一个	weight:0.0638786	idf:4.24793	tf:0.0150376
+word:综合	weight:0	idf:0	tf:0.037594
 请按任意键继续. . . 

@@ -13,17 +13,18 @@
 using namespace std;
 ///////////////////////////////
 map <int ,string > ch_dic;
+int TOTAL_WORD_NUM = 0;
 
 struct Idf_word{
     string word;
     double idf;
+    double w;
     Idf_word(string _w,double _i) :word(_w),idf(_i){}
     bool operator < (const Idf_word &rhs) const
     {
         return idf < rhs.idf;
     }
 };
-
 unsigned int ch_word_hash(const char *ch_word)
 {
     unsigned int seed = 131;
@@ -85,18 +86,18 @@ void mycopy(char a[],char b[],int c,int d)
     b[i]='\0';
 }
 
-void separate(const char *file_name,vector <string> &save_word)
+void separate(const char *file_name,map<string,int> &save_word)
 {
-    char text[1024][1024];
+    char text[1024][100];
     char wordlist[4096][12],word[4096][12];
-
+    cout << file_name << endl;
     int t=0;
     int coun = 0;
 	FILE *txt=fopen(file_name,"r");
 	char new_file[128];
 	strcpy(new_file,string(string(file_name)+".new.txt").c_str());
 
-    //FILE *pNEW_FILE=fopen(new_file,"w");
+    FILE *pNEW_FILE=fopen(new_file,"w");
 
     while((fscanf(txt,"%s",text[t++]))!=EOF)
         ;
@@ -179,24 +180,32 @@ void separate(const char *file_name,vector <string> &save_word)
 
     	c=c-1;
         coun=coun-1;
+        TOTAL_WORD_NUM += c;
         while(c>=0)
         {
+            fprintf(pNEW_FILE,"%s/",word[c]);
+            c--;
+            /*
             if(c!=0)
             {
+
                 //printf("%s/",wordlist[c]);
-                //fprintf(pNEW_FILE,"%s/",wordlist[c]);
-                save_word.push_back(wordlist[c]);
-                //cout << wordlist[c] << endl;
+                fprintf(pNEW_FILE,"%s/",wordlist[c]);
+                if(!save_word.count(wordlist[c]) )
+                    save_word.insert(pair<string,int>(wordlist[c],1));
+                else
+                    save_word[wordlist[c]] ++;
                 --c;
             }
             else
             {
-                //fprintf(pNEW_FILE,"%s",word[c]);
+                fprintf(pNEW_FILE,"%s",word[c]);
                 //cout << wordlist[c] << endl;
                 --c;
             }
+            */
         }
-        //fprintf(pNEW_FILE,"\n");
+        fprintf(pNEW_FILE,"\n");
     }
 
 }
@@ -207,10 +216,10 @@ void for_each( int (&int_ref)[10] )
         std::cout << int_ref[i] << std::endl;
 }
 
-bool word_search(vector <string> &v,string word)
+bool word_search(map <string,int> &v,string word)
 {
-    vector <string>::iterator it;
-    for(it = v.begin();it != v.end();it++) if(*it == word)
+    map <string,int>::iterator it;
+    for(it = v.begin();it != v.end();it++) if(it->first == word)
     {
         return true;
     }
@@ -219,7 +228,7 @@ bool word_search(vector <string> &v,string word)
 
 void get_filename(const char *dir ,vector <string> &file_list)
 {
-    cout << "travel :" << dir << endl;
+    //cout << "travel :" << dir << endl;
 
     WIN32_FIND_DATA wfd;
     HANDLE hFind;
@@ -227,18 +236,19 @@ void get_filename(const char *dir ,vector <string> &file_list)
     hFind = FindFirstFile(dir,&wfd);
 
     do{
-        cout << wfd.cFileName << endl;
+        //cout << wfd.cFileName << endl;
         file_list.push_back(wfd.cFileName);
     }while(FindNextFile(hFind,&wfd));
 
     FindClose(hFind);
 }
 
-void travel_folder(vector <string>* v_word)
+void travel_folder(map <string,int>* v_word)
 {
     vector <string> folder_name;
     vector <string> file_list;
     vector <string>::iterator it,it2;
+    map <string,int>::iterator it_m;
     string addr = "/*";
 
     get_filename("C:/data_ch/*",folder_name);
@@ -259,66 +269,56 @@ void travel_folder(vector <string>* v_word)
             separate(("C:/data_ch/"+*it+"/"+*it2).c_str(),v_word[num_doc++]);
         }
 
+
+        //system("PAUSE");
         map<string,double> idf;
         map<string,int> cnt_word[1024];
         vector <Idf_word> final_idf;
 
         for(int i=0;i<num_doc;i++)
         {
-            for(it2 = v_word[i].begin();it2!=v_word[i].end();it2++) if(!idf.count(*it2) && it2->size()>2)
+            int tot_word_num = v_word[i].size();
+            //cout << endl;
+            //cout << "name:" << file_list[i+2] << "\twords:" << tot_word_num << endl;
+            //cout << "-----------------------------------------------" <<endl;
+
+            for(it_m = v_word[i].begin();it_m!=v_word[i].end();it_m++) if(it_m->first.size()>2)
             {
-                idf.insert(pair<string,double>(*it2,1));
-                for(int j=0;j<num_doc;j++) if(word_search(v_word[j],*it2))
+                if(!idf.count(it_m->first))
                 {
-                        idf[*it2]+=1;
+                    idf.insert(pair<string,double>(it_m->first,1));
+                    for(int j=0;j<num_doc;j++) if(word_search(v_word[j],it_m->first))
+                    {
+                        idf[it_m->first]+=1;
+                    }
+                    idf[it_m->first] = log((double)num_doc/idf[it_m->first])/log(2);
                 }
-                idf[*it2] = log((double)num_doc/idf[*it2])/log(2);
-                //cout << *it2<<": "<<idf[*it2] << endl;
-                final_idf.push_back(Idf_word(*it2,idf[*it2]));
+                double tf = (double)it_m->second / tot_word_num;
+                //final_idf.push_back(Idf_word(it_m->first,idf[it_m->first]));
+                //cout << "word:" << it_m->first << "\tweight:" << tf*idf[it_m->first];
+                //cout << "\tidf:" << idf[it_m->first] << "\ttf:" << tf << endl;
             }
+
         }
-        sort(final_idf.begin(),final_idf.end());
-        for(int i=0;i<final_idf.size();i++)
-        {
-            cout << final_idf[i].word << ":" << final_idf[i].idf << endl;
-        }
-        system("PAUSE");
+
+//        sort(final_idf.begin(),final_idf.end());
+//        for(int i=0;i<final_idf.size();i++)
+//        {
+//            cout << final_idf[i].word << ":" << final_idf[i].idf << endl;
+//        }
     }
 }
 
 int main()
 {
-    freopen("log.txt","w",stdout);
+    //freopen("log.txt","w",stdout);
     load_dic("dic.txt");
-    vector <string> word_list[4096];
-    //string path = "C:\Users\韩泽方\Desktop\大二下\数字内容安全\实验四\体育领域\体育分类测试文档";
+
+    map <string,int> word_list[4096];
+
     travel_folder(word_list);
-    //separate("./test/news209792295.txt",word_list[1]);
-    system("PAUSE");
+
+    cout << "Done!" << endl;
+    cout << "totla num:" <<TOTAL_WORD_NUM <<endl;
+    //system("PAUSE");
 }
-
-/*
-int main()
-{
-	int x=0;
-	int t=0;
-  	char text[100][1000];
-  	char text2[10000];
-	char word[10000][12];
-	char wordlist[10000][12];
-	FILE *txt=fopen("news209792295.txt","r");
-	load_dic("词典.txt");
-    while((fscanf(txt,"%s",text[t++]))!=EOF)
-    ;
-
-
-    while(x<t)
-	{
-	  separate(text[x],word,wordlist);
-      ++x;
-	}
-
-    //separate(text2,word);
-
-}
-*/
